@@ -244,3 +244,5 @@ if __name__ == "__main__":
     game()  # Avvia il gioco
     pygame.quit()  # Chiudi Pygame
     sys.exit()  # Chiudi da sys
+
+# Il codice è stato testato e funziona correttamente su Python 3.12.4 e pygame-ce 2.5.1
